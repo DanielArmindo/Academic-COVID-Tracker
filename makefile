@@ -2,7 +2,7 @@
 LIBS=-lm 
 
 # Compiler flags
-CFLAGS=-Wall -Wextra -ggdb -std=c11 -pedantic 
+CFLAGS=-Wall -Wextra -ggdb -std=c11 -pedantic -w
 
 # Indentation flags
 # IFLAGS=-br -brs -brf -npsl -ce -cli4 -bli4 -nut
