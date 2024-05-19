@@ -1,0 +1,7 @@
+# Ignorar conteúdo das pastas "obj" e "debug"
+obj/*
+debug/*
+
+# Ignorar os arquivos "args.c" e "args.h"
+args.c
+args.h

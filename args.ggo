@@ -1,0 +1,15 @@
+purpose "Este programa tem como objetivo demonstrar o uso do gengetopt"
+package "SO"
+version "1.0"
+
+# Options
+#usar no required or optional com "yes" ou "no"
+# tips of variables string,int,float,double,long,short
+
+option  "ajuda"          a "Parametro ajuda"       string     no
+#option  "nome"          n "Parâmetro nome"       string     no
+#option  "valor"         v "Parâmetro valor"      int       yes
+#option  "idade"         i "Parâmetro idade"      short      no
+#option  "habitantes"    b "Parâmetro habitantes" long      yes
+#option  "tonelagem"     t "Parâmetro tonelagem"  float      no
+#option  "margem"        m "Parâmetro margem"     double     no
