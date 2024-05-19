@@ -71,7 +71,7 @@ The aim of this project is to develop a program (**in C language**) to manage CO
 
 Another objective of this project is to demonstrate the application of C language concepts, as well as to ensure good code structuring, promoting efficient and organized programming practices.
 
-<span style="font-size: larger;font-weight:bold;">Features</span>
+**Features**
 
 - Registration of Academic Community Members:
 	- Only registered members can schedule tests.
@@ -84,7 +84,7 @@ Another objective of this project is to demonstrate the application of C languag
 	- Members with inconclusive results are quarantined.
 	- Registration of members in isolation due to close contact with infected persons.
 
-<span style="font-size: larger;font-weight:bold;">Proceedings</span>
+**Proceedings**
 
 - Scheduling
 	- Exclusive to registered members, specifying the type of test.
@@ -124,4 +124,4 @@ store.exe
 
 Depending on the operating system that will run the program and based on the C compiler used, **if it's different from gcc** it is necessary to **change the "CC" makefile variable to the respective compiler**.
 
-This project was developed on linux and tested on Windows, **recommend running it in a linux environment**x and tested on Windows, **recommend running it in a linux environment**
+This project was developed on linux and tested on Windows, **recommend running it in a linux environment** and tested on Windows, **recommend running it in a linux environment**
